@@ -119,11 +119,11 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tools/.gitignore" timestamp="1491738749275">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/tools/.gitignore" timestamp="1491750093884">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spring/.gitignore" timestamp="1457969422151">
         <mark key="[" line="1" column="5" />
@@ -178,11 +178,11 @@
       <jump line="103" column="0" filename="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>properties</text>
       </register>
       <register name="-" type="4">
-        <text>******************************************</text>
+        <text>properties</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWFkZHJlc3NUeHQgPSBzdHJpbmdzLlRyaW0oIlwiIiwgYWRkcmVzc1R4dCkK</text>
@@ -215,7 +215,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -226,10 +226,10 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>set noerrorbells</entry>
         <entry>set visualbell</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -252,6 +252,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
