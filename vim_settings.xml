@@ -12,6 +12,12 @@
       <file name="/a.dummy" timestamp="1491700263114">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/knowledge/puppet/test.pp" timestamp="1492301002780">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/tools/src/main/java/jp/co/fsms/tools/GitTranslate.java" timestamp="1458663230106">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="21" column="12" />
@@ -58,7 +64,7 @@
       <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/pages/選択ログイン.java" timestamp="1483427295284">
         <mark key="[" line="16" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491738759797">
+      <file name="/Dummy.txt" timestamp="1492301410749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/withinip_test.go" timestamp="1483095257989">
@@ -113,6 +119,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/knowledge/README.md" timestamp="1492271499114">
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/Top.java" timestamp="1483370754363">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="15" />
@@ -155,7 +166,7 @@
         <mark key="." line="39" column="96" />
         <mark key="^" line="39" column="96" />
       </file>
-      <file name="/fragment.java" timestamp="1483452296199">
+      <file name="/fragment.java" timestamp="1492301059615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.IntelliJIdea2017.1/idea64.vmoptions" timestamp="1491142064050">
@@ -178,8 +189,8 @@
       <jump line="103" column="0" filename="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>properties</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="-" type="4">
         <text>properties</text>
@@ -188,34 +199,34 @@
         <text encoding="base64">CWFkZHJlc3NUeHQgPSBzdHJpbmdzLlRyaW0oIlwiIiwgYWRkcmVzc1R4dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNob3dpbmcgaG9tZSB0aW1lbGluZS4iKTsKICAgICAgICBmb3IgKFN0YXR1cyBzdGF0dXMgOiBzdGF0dXNlcykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhdHVzLmdldFVzZXIoKS5nZXROYW1lKCkgKyAiOiIgKwogICAgICAgICAgICAgICAgICAgIHN0YXR1cy5nZXRUZXh0KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmluZSBpbnN0YWxsICgKICAgICAgICAkOjpyb290LAogICAgICAgICQ6OmFwbGRpciwKICAgICkgewogICAgICAgIHRhZygnYXRtX2FwbF9pbnN0YWxsJykKCiAgICAgICAgJDo6YXBsX3BhdGggPSAiJHs6OnJvb3R9L0FULyR7OjphcGxkaXJ9IgoKICAgICAgICAkOjphdF9hbGlhc2VzID0gcmVnc3Vic3QoJDo6Z2VuZXNpczo6dmVyc2lvbjo6YXQsICckJywgJGFwbF9wYXRoKQoKICAgICAgICBnZW5lc2lzOjpycG1pbnN0YWxsX3dpdGhfcm9vdCB7ICRhdF9hbGlhc2VzIDoKICAgICAgICAgICAgcm9vdCAgICAgPT4gJDo6cm9vdCwKICAgICAgICAgICAgYXBsX3BhdGggPT4gJDo6YXBsX3BhdGgsCiAgICAgICAgfQoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNob3dpbmcgaG9tZSB0aW1lbGluZS4iKTsKICAgICAgICBmb3IgKFN0YXR1cyBzdGF0dXMgOiBzdGF0dXNlcykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhdHVzLmdldFVzZXIoKS5nZXROYW1lKCkgKyAiOiIgKwogICAgICAgICAgICAgICAgICAgIHN0YXR1cy5nZXRUZXh0KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmluZSBpbnN0YWxsICgKICAgICAgICAkOjpyb290LAogICAgICAgICQ6OmFwbGRpciwKICAgICkgewogICAgICAgIHRhZygnYXRtX2FwbF9pbnN0YWxsJykKCiAgICAgICAgJDo6YXBsX3BhdGggPSAiJHs6OnJvb3R9L0FULyR7OjphcGxkaXJ9IgoKICAgICAgICAkOjphdF9hbGlhc2VzID0gcmVnc3Vic3QoJDo6Z2VuZXNpczo6dmVyc2lvbjo6YXQsICckJywgJGFwbF9wYXRoKQoKICAgICAgICBnZW5lc2lzOjpycG1pbnN0YWxsX3dpdGhfcm9vdCB7ICRhdF9hbGlhc2VzIDoKICAgICAgICAgICAgcm9vdCAgICAgPT4gJDo6cm9vdCwKICAgICAgICAgICAgYXBsX3BhdGggPT4gJDo6YXBsX3BhdGgsCiAgICAgICAgfQoKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0LnVudGlsKEV4cGVjdGVkQ29uZGl0aW9ucy5pbgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3YWl0LnVudGlsKEV4cGVjdGVkQ29uZGl0aW9ucy5pbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -228,8 +239,8 @@
         <entry>w</entry>
         <entry>set noerrorbells</entry>
         <entry>set visualbell</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -255,6 +266,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
