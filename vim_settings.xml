@@ -55,12 +55,12 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" timestamp="1495716212691">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="37" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="38" column="37" />
+      <file name="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" timestamp="1495736662347">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="58" column="41" />
+        <mark key="]" line="58" column="33" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="58" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" timestamp="1495716086908">
         <mark key="'" line="16" column="6" />
@@ -74,7 +74,7 @@
       <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/pages/選択ログイン.java" timestamp="1483427295284">
         <mark key="[" line="16" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495716229491">
+      <file name="/Dummy.txt" timestamp="1495737266514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/withinip_test.go" timestamp="1483095257989">
@@ -158,6 +158,13 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/aws/vagrant/marble_web/Vagrantfile" timestamp="1495736639439">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="61" column="33" />
+        <mark key="." line="61" column="33" />
+        <mark key="^" line="61" column="33" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mainsite/sahagin.yml" timestamp="1483372895918">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="0" />
@@ -200,62 +207,65 @@
       <jump line="16" column="6" filename="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" />
       <jump line="46" column="40" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
       <jump line="16" column="6" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/aws/vagrant/marble_web/Vagrantfile" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YGBgCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>properties</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>chimaira</text>
+        <text>frigg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWFkZHJlc3NUeHQgPSBzdHJpbmdzLlRyaW0oIlwiIiwgYWRkcmVzc1R4dCkK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYnVzLmNoZWZfdmVyc2lvbiA9ICIxMi4yLjEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYnVzLmNoZWZfdmVyc2lvbiA9IDpsYXRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNob3dpbmcgaG9tZSB0aW1lbGluZS4iKTsKICAgICAgICBmb3IgKFN0YXR1cyBzdGF0dXMgOiBzdGF0dXNlcykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhdHVzLmdldFVzZXIoKS5nZXROYW1lKCkgKyAiOiIgKwogICAgICAgICAgICAgICAgICAgIHN0YXR1cy5nZXRUZXh0KCkpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZmluZSBpbnN0YWxsICgKICAgICAgICAkOjpyb290LAogICAgICAgICQ6OmFwbGRpciwKICAgICkgewogICAgICAgIHRhZygnYXRtX2FwbF9pbnN0YWxsJykKCiAgICAgICAgJDo6YXBsX3BhdGggPSAiJHs6OnJvb3R9L0FULyR7OjphcGxkaXJ9IgoKICAgICAgICAkOjphdF9hbGlhc2VzID0gcmVnc3Vic3QoJDo6Z2VuZXNpczo6dmVyc2lvbjo6YXQsICckJywgJGFwbF9wYXRoKQoKICAgICAgICBnZW5lc2lzOjpycG1pbnN0YWxsX3dpdGhfcm9vdCB7ICRhdF9hbGlhc2VzIDoKICAgICAgICAgICAgcm9vdCAgICAgPT4gJDo6cm9vdCwKICAgICAgICAgICAgYXBsX3BhdGggPT4gJDo6YXBsX3BhdGgsCiAgICAgICAgfQoKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNob3dpbmcgaG9tZSB0aW1lbGluZS4iKTsKICAgICAgICBmb3IgKFN0YXR1cyBzdGF0dXMgOiBzdGF0dXNlcykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhdHVzLmdldFVzZXIoKS5nZXROYW1lKCkgKyAiOiIgKwogICAgICAgICAgICAgICAgICAgIHN0YXR1cy5nZXRUZXh0KCkpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZmluZSBpbnN0YWxsICgKICAgICAgICAkOjpyb290LAogICAgICAgICQ6OmFwbGRpciwKICAgICkgewogICAgICAgIHRhZygnYXRtX2FwbF9pbnN0YWxsJykKCiAgICAgICAgJDo6YXBsX3BhdGggPSAiJHs6OnJvb3R9L0FULyR7OjphcGxkaXJ9IgoKICAgICAgICAkOjphdF9hbGlhc2VzID0gcmVnc3Vic3QoJDo6Z2VuZXNpczo6dmVyc2lvbjo6YXQsICckJywgJGFwbF9wYXRoKQoKICAgICAgICBnZW5lc2lzOjpycG1pbnN0YWxsX3dpdGhfcm9vdCB7ICRhdF9hbGlhc2VzIDoKICAgICAgICAgICAgcm9vdCAgICAgPT4gJDo6cm9vdCwKICAgICAgICAgICAgYXBsX3BhdGggPT4gJDo6YXBsX3BhdGgsCiAgICAgICAgfQoKICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0LnVudGlsKEV4cGVjdGVkQ29uZGl0aW9ucy5pbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3YWl0LnVudGlsKEV4cGVjdGVkQ29uZGl0aW9ucy5pbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2ZyaWdnL21hcmJsZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>chimaira</last-search>
-      <last-pattern>chimaira</last-pattern>
-      <last-replace>frigg</last-replace>
-      <last-substitute>chimaira</last-substitute>
+      <last-search>frigg</last-search>
+      <last-pattern>frigg</last-pattern>
+      <last-replace>marble</last-replace>
+      <last-substitute>frigg</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>chimaira</entry>
+        <entry>frigg</entry>
       </history-search>
       <history-cmd>
         <entry>set noerrorbells</entry>
@@ -264,6 +274,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2NoaW1haXJhL2ZyaWdnL2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2ZyaWdnL21hcmJsZS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
