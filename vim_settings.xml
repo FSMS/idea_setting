@@ -55,6 +55,16 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" timestamp="1495716212691">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="37" />
+        <mark key="^" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" timestamp="1495716086908">
+        <mark key="'" line="16" column="6" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/tools/pom.xml" timestamp="1459351207312">
         <mark key="[" line="14" column="0" />
       </file>
@@ -64,7 +74,7 @@
       <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/pages/選択ログイン.java" timestamp="1483427295284">
         <mark key="[" line="16" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492301410749">
+      <file name="/Dummy.txt" timestamp="1495716004586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/withinip_test.go" timestamp="1483095257989">
@@ -187,6 +197,9 @@
       <jump line="51" column="12" filename="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" />
       <jump line="8" column="4" filename="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" />
+      <jump line="16" column="6" filename="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" />
+      <jump line="46" column="40" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
+      <jump line="16" column="6" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -194,6 +207,9 @@
       </register>
       <register name="-" type="4">
         <text>properties</text>
+      </register>
+      <register name="/" type="4">
+        <text>chimaira</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWFkZHJlc3NUeHQgPSBzdHJpbmdzLlRyaW0oIlwiIiwgYWRkcmVzc1R4dCkK</text>
@@ -226,21 +242,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
+      <last-search>chimaira</last-search>
+      <last-pattern>chimaira</last-pattern>
+      <last-replace>frigg</last-replace>
+      <last-substitute>chimaira</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>chimaira</entry>
+      </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>set noerrorbells</entry>
         <entry>set visualbell</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2NoaW1haXJhL2ZyaWdnL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
