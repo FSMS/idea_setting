@@ -74,7 +74,7 @@
       <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/pages/選択ログイン.java" timestamp="1483427295284">
         <mark key="[" line="16" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495737266514">
+      <file name="/Dummy.txt" timestamp="1495738864988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/withinip_test.go" timestamp="1483095257989">
@@ -158,12 +158,12 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/aws/vagrant/marble_web/Vagrantfile" timestamp="1495736639439">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="61" column="33" />
-        <mark key="." line="61" column="33" />
-        <mark key="^" line="61" column="33" />
+      <file name="$USER_HOME$/workspace/aws/vagrant/marble_web/Vagrantfile" timestamp="1495738857831">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mainsite/sahagin.yml" timestamp="1483372895918">
         <mark key="[" line="1" column="24" />
@@ -211,11 +211,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>frigg</text>
@@ -224,10 +224,10 @@
         <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYnVzLmNoZWZfdmVyc2lvbiA9ICIxMi4yLjEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYnVzLmNoZWZfdmVyc2lvbiA9IDpsYXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -236,19 +236,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNob3dpbmcgaG9tZSB0aW1lbGluZS4iKTsKICAgICAgICBmb3IgKFN0YXR1cyBzdGF0dXMgOiBzdGF0dXNlcykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhdHVzLmdldFVzZXIoKS5nZXROYW1lKCkgKyAiOiIgKwogICAgICAgICAgICAgICAgICAgIHN0YXR1cy5nZXRUZXh0KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmluZSBpbnN0YWxsICgKICAgICAgICAkOjpyb290LAogICAgICAgICQ6OmFwbGRpciwKICAgICkgewogICAgICAgIHRhZygnYXRtX2FwbF9pbnN0YWxsJykKCiAgICAgICAgJDo6YXBsX3BhdGggPSAiJHs6OnJvb3R9L0FULyR7OjphcGxkaXJ9IgoKICAgICAgICAkOjphdF9hbGlhc2VzID0gcmVnc3Vic3QoJDo6Z2VuZXNpczo6dmVyc2lvbjo6YXQsICckJywgJGFwbF9wYXRoKQoKICAgICAgICBnZW5lc2lzOjpycG1pbnN0YWxsX3dpdGhfcm9vdCB7ICRhdF9hbGlhc2VzIDoKICAgICAgICAgICAgcm9vdCAgICAgPT4gJDo6cm9vdCwKICAgICAgICAgICAgYXBsX3BhdGggPT4gJDo6YXBsX3BhdGgsCiAgICAgICAgfQoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0LnVudGlsKEV4cGVjdGVkQ29uZGl0aW9ucy5pbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZyaWdnL21hcmJsZS9n</text>
