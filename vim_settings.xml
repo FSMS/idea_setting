@@ -55,8 +55,16 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" timestamp="1495716086908">
-        <mark key="'" line="16" column="6" />
+      <file name="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" timestamp="1495877306249">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" timestamp="1495877419130">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="34" column="77" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="72" />
+        <mark key="^" line="34" column="72" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tools/pom.xml" timestamp="1459351207312">
         <mark key="[" line="14" column="0" />
@@ -74,7 +82,7 @@
       <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/pages/選択ログイン.java" timestamp="1483427295284">
         <mark key="[" line="16" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495875236758">
+      <file name="/Dummy.txt" timestamp="1495877449900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/withinip_test.go" timestamp="1483095257989">
@@ -91,6 +99,12 @@
       </file>
       <file name="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" timestamp="1491141895231">
         <mark key="'" line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/aws/vagrant/baldr_web/Vagrantfile" timestamp="1495876658377">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="27" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/cidr.txt" timestamp="1483086833509">
         <mark key="[" line="1" column="14" />
@@ -204,64 +218,65 @@
       <jump line="14" column="15" filename="$USER_HOME$/workspace/aws/chef/roles/chimaira_web.rb" />
       <jump line="13" column="11" filename="$USER_HOME$/workspace/aws/chef/roles/baldr_web.rb" />
       <jump line="61" column="3" filename="$USER_HOME$/workspace/aws/chef/roles/frigg_web.rb" />
+      <jump line="12" column="4" filename="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzMzliNDE0ZmI0NDJkYjExMjgxMTJmZmM3MjgxNmZlOGRkYjZiNzkxCg==</text>
+        <text encoding="base64">ICAgIGlmIGVudmlyb24gPT0gJ3QxJwogICAgICAgIHRhZ19uYW1lID0gJ2NoaW1haXJhX3dlYl9iYXNlJwogICAgZWxzaWYgZW52aXJvbiA9PSAndDInIHRoZW4KICAgICAgICB0YWdfbmFtZSA9ICdjaGltYWlyYV90Ml93ZWJfYmFzZScKICAgIGVsc2lmIEVOVlsnZW52cmlvbiddID09ICd0MycgdGhlbgogICAgICAgIHRhZ19uYW1lID0gJ2NoaW1haXJhX3QzX3dlYl9iYXNlJwogICAgZWxzaWYgRU5WWydlbnZyaW9uJ10gPT0gJ3Byb2QnIHRoZW4KICAgICAgICB0YWdfbmFtZSA9ICdjaGltYWlyYV9wcm9kX3dlYl9iYXNlJwogICAgZW5kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>baldr_web_base</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>frigg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYnVzLmNoZWZfdmVyc2lvbiA9ICIxMi4yLjEiCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb24gPSBFTlZbJ2Vudmlyb24nXSB8fCAndDEnCiAgICBrZXlfbmFtZSA9IGVudmlyb24gPT0gJ3Byb2QnID8gImZyaWdnX3Byb2QucGVtIiA6ICJmcmlnZ19kZXYucGVtIgogICAgaWYgZW52aXJvbiA9PSAndDEnCiAgICAgICAgdGFnX25hbWUgPSAnZnJpZ2dfd2ViX2Jhc2UnCiAgICBlbHNlCiAgICAgICAgdGFnX25hbWUgPSAnZnJpZ2dfJyArIGVudmlyb24gKyAnX3dlYl9iYXNlJwogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzMzliNDE0ZmI0NDJkYjExMjgxMTJmZmM3MjgxNmZlOGRkYjZiNzkxCg==</text>
+        <text encoding="base64">ICAgIGlmIGVudmlyb24gPT0gJ3QxJwogICAgICAgIHRhZ19uYW1lID0gJ2NoaW1haXJhX3dlYl9iYXNlJwogICAgZWxzaWYgZW52aXJvbiA9PSAndDInIHRoZW4KICAgICAgICB0YWdfbmFtZSA9ICdjaGltYWlyYV90Ml93ZWJfYmFzZScKICAgIGVsc2lmIEVOVlsnZW52cmlvbiddID09ICd0MycgdGhlbgogICAgICAgIHRhZ19uYW1lID0gJ2NoaW1haXJhX3QzX3dlYl9iYXNlJwogICAgZWxzaWYgRU5WWydlbnZyaW9uJ10gPT0gJ3Byb2QnIHRoZW4KICAgICAgICB0YWdfbmFtZSA9ICdjaGltYWlyYV9wcm9kX3dlYl9iYXNlJwogICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAgIGVudmlyb24gPSBFTlZbJ2Vudmlyb24nXSB8fCAndDEnCiAgICBrZXlfbmFtZSA9IGVudmlyb24gPT0gJ3Byb2QnID8gImZyaWdnX3Byb2QucGVtIiA6ICJmcmlnZ19kZXYucGVtIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cGx1Z2lucyA9PiAldygKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi1jb25maWctZXhwYW5kZXIKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi10YWlsLWV4CiAgICAgICAgICAgIGZsdWVudC1wbHVnaW4tZHN0YXQKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi1lbGFzdGljc2VhcmNoCiAgICAgICAgKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiAzMzliNDE0ZmI0NDJkYjExMjgxMTJmZmM3MjgxNmZlOGRkYjZiNzkxCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bmFtZSAiZnJpZ2dfd2ViIgpkZXNjcmlwdGlvbiAibW9iaWxlIHdlYiBzZXJ2ZXIiCnJ1bl9saXN0IFsicm9sZVthbWF6b25saW51eF0iLAogICAgICAgICAgInJlY2lwZVthZGR1c2VyOjpyb290XSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OmZyaWdnXSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OmNheWVuXSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OnN5c3VzZXJdIiwKICAgICAgICAgICJyZWNpcGVbaG9zdHNdIiwKICAgICAgICAgICJyZWNpcGVbZGV2dG9vbHNdIiwKICAgICAgICAgICJyZWNpcGVbamF2YV0iLAogICAgICAgICAgInJlY2lwZVtzc2hkXSIsCiAgICAgICAgICAicmVjaXBlW2phdmE6OmNheWVuXSIsCiAgICAgICAgICAicmVjaXBlW3RvbWNhdDo6ZnJpZ2dfd2ViXSIsCiAgICAgICAgICAicmVjaXBlW3RvbWNhdDo6ZnJpZ2dfYXBdIiwKICAgICAgICAgICJyZWNpcGVbdG9tY2F0OjpjYXllbl9wc10iLAogICAgICAgICAgInJlY2lwZVtzY3JpcHRzOjpmcmlnZ193ZWJdIiwKICAgICAgICAgICJyZWNpcGVbbGltaXRzXSIsCiAgICAgICAgICAicmVjaXBlW3RkLWFnZW50Ml0iLAogICAgICAgICAgInJlY2lwZVthd3Nsb2dzXSIsCiAgICAgICAgICAicmVjaXBlW0luc3BlY3Rvcl0iLAogICAgICAgICAgInJlY2lwZVtudHBdIiwKICAgICAgICAgICJyZWNpcGVbZGV2dXNlcnNdIgogICAgICAgICBdCj09PT09PT0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA6cGx1Z2lucyA9PiAldygKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi1jb25maWctZXhwYW5kZXIKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi10YWlsLWV4CiAgICAgICAgICAgIGZsdWVudC1wbHVnaW4tZHN0YXQKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi1lbGFzdGljc2VhcmNoCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAzMzliNDE0ZmI0NDJkYjExMjgxMTJmZmM3MjgxNmZlOGRkYjZiNzkxCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZSAiZnJpZ2dfd2ViIgpkZXNjcmlwdGlvbiAibW9iaWxlIHdlYiBzZXJ2ZXIiCnJ1bl9saXN0IFsicm9sZVthbWF6b25saW51eF0iLAogICAgICAgICAgInJlY2lwZVthZGR1c2VyOjpyb290XSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OmZyaWdnXSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OmNheWVuXSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OnN5c3VzZXJdIiwKICAgICAgICAgICJyZWNpcGVbaG9zdHNdIiwKICAgICAgICAgICJyZWNpcGVbZGV2dG9vbHNdIiwKICAgICAgICAgICJyZWNpcGVbamF2YV0iLAogICAgICAgICAgInJlY2lwZVtzc2hkXSIsCiAgICAgICAgICAicmVjaXBlW2phdmE6OmNheWVuXSIsCiAgICAgICAgICAicmVjaXBlW3RvbWNhdDo6ZnJpZ2dfd2ViXSIsCiAgICAgICAgICAicmVjaXBlW3RvbWNhdDo6ZnJpZ2dfYXBdIiwKICAgICAgICAgICJyZWNpcGVbdG9tY2F0OjpjYXllbl9wc10iLAogICAgICAgICAgInJlY2lwZVtzY3JpcHRzOjpmcmlnZ193ZWJdIiwKICAgICAgICAgICJyZWNpcGVbbGltaXRzXSIsCiAgICAgICAgICAicmVjaXBlW3RkLWFnZW50Ml0iLAogICAgICAgICAgInJlY2lwZVthd3Nsb2dzXSIsCiAgICAgICAgICAicmVjaXBlW0luc3BlY3Rvcl0iLAogICAgICAgICAgInJlY2lwZVtudHBdIiwKICAgICAgICAgICJyZWNpcGVbZGV2dXNlcnNdIgogICAgICAgICBdCj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text encoding="base64">JzwsJz5zL2ZyaWdnL2NoaW1haXJhL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-search>frigg</last-search>
+      <last-pattern>frigg</last-pattern>
+      <last-replace>chimaira</last-replace>
+      <last-substitute>frigg</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>chimaira</entry>
-        <entry>frigg</entry>
         <entry>&quot;</entry>
+        <entry>frigg</entry>
       </history-search>
       <history-cmd>
         <entry>set noerrorbells</entry>
@@ -272,6 +287,7 @@
         <entry encoding="base64">JzwsJz5zL2ZyaWdnL21hcmJsZS9n</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2ZyaWdnL2NoaW1haXJhL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -300,6 +316,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
