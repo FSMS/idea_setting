@@ -55,18 +55,18 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" timestamp="1495736662347">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="33" />
-        <mark key="^" line="58" column="33" />
-        <mark key="." line="58" column="33" />
-      </file>
       <file name="$USER_HOME$/workspace/aws/vagrant/chimaira_web/Vagrantfile" timestamp="1495716086908">
         <mark key="'" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tools/pom.xml" timestamp="1459351207312">
         <mark key="[" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/aws/chef/roles/marble_web.rb" timestamp="1495874150761">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="65" column="8" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1459344913469">
         <mark key="[" line="0" column="0" />
@@ -74,7 +74,7 @@
       <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/pages/選択ログイン.java" timestamp="1483427295284">
         <mark key="[" line="16" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495739968429">
+      <file name="/Dummy.txt" timestamp="1495875236758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/withinip_test.go" timestamp="1483095257989">
@@ -82,11 +82,6 @@
         <mark key="]" line="4" column="8" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/BaseTest.java" timestamp="1483370428985">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mainsite/pom.xml" timestamp="1483374469049">
         <mark key="[" line="14" column="0" />
@@ -103,31 +98,18 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/AllScreenTest.java" timestamp="1483456606540">
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/pages/メンバートップ.java" timestamp="1483454347856">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/aws/chef/roles/frigg_web.rb" timestamp="1495875230237">
+        <mark key="'" line="66" column="3" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="65" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ninja/src/main/java/conf/Routes.java" timestamp="1457968655617">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="7" />
         <mark key="." line="38" column="7" />
         <mark key="^" line="38" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/withinip/main.go" timestamp="1483067132566">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mainsite/src/test/java/jp/co/fsms/sbi/TopTest.java" timestamp="1483425548898">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/knowledge/README.md" timestamp="1492271499114">
         <mark key="]" line="0" column="32" />
@@ -139,6 +121,13 @@
         <mark key="]" line="13" column="15" />
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/aws/chef/roles/susanowo_web.rb" timestamp="1495874360481">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+        <mark key="^" line="55" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tools/.gitignore" timestamp="1491750093884">
         <mark key="[" line="4" column="10" />
@@ -209,40 +198,46 @@
       <jump line="16" column="6" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/aws/vagrant/marble_web/Vagrantfile" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/aws/vagrant/frigg_web/Vagrantfile" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/aws/chef/roles/marble_web.rb" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/aws/chef/roles/susanowo_web.rb" />
+      <jump line="15" column="5" filename="$USER_HOME$/workspace/aws/chef/roles/frigg_web.rb" />
+      <jump line="14" column="15" filename="$USER_HOME$/workspace/aws/chef/roles/chimaira_web.rb" />
+      <jump line="13" column="11" filename="$USER_HOME$/workspace/aws/chef/roles/baldr_web.rb" />
+      <jump line="61" column="3" filename="$USER_HOME$/workspace/aws/chef/roles/frigg_web.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzMzliNDE0ZmI0NDJkYjExMjgxMTJmZmM3MjgxNmZlOGRkYjZiNzkxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>frigg</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYnVzLmNoZWZfdmVyc2lvbiA9ICIxMi4yLjEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzMzliNDE0ZmI0NDJkYjExMjgxMTJmZmM3MjgxNmZlOGRkYjZiNzkxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGx1Z2lucyA9PiAldygKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi1jb25maWctZXhwYW5kZXIKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi10YWlsLWV4CiAgICAgICAgICAgIGZsdWVudC1wbHVnaW4tZHN0YXQKICAgICAgICAgICAgZmx1ZW50LXBsdWdpbi1lbGFzdGljc2VhcmNoCiAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzMzliNDE0ZmI0NDJkYjExMjgxMTJmZmM3MjgxNmZlOGRkYjZiNzkxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZSAiZnJpZ2dfd2ViIgpkZXNjcmlwdGlvbiAibW9iaWxlIHdlYiBzZXJ2ZXIiCnJ1bl9saXN0IFsicm9sZVthbWF6b25saW51eF0iLAogICAgICAgICAgInJlY2lwZVthZGR1c2VyOjpyb290XSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OmZyaWdnXSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OmNheWVuXSIsCiAgICAgICAgICAicmVjaXBlW2FkZHVzZXI6OnN5c3VzZXJdIiwKICAgICAgICAgICJyZWNpcGVbaG9zdHNdIiwKICAgICAgICAgICJyZWNpcGVbZGV2dG9vbHNdIiwKICAgICAgICAgICJyZWNpcGVbamF2YV0iLAogICAgICAgICAgInJlY2lwZVtzc2hkXSIsCiAgICAgICAgICAicmVjaXBlW2phdmE6OmNheWVuXSIsCiAgICAgICAgICAicmVjaXBlW3RvbWNhdDo6ZnJpZ2dfd2ViXSIsCiAgICAgICAgICAicmVjaXBlW3RvbWNhdDo6ZnJpZ2dfYXBdIiwKICAgICAgICAgICJyZWNpcGVbdG9tY2F0OjpjYXllbl9wc10iLAogICAgICAgICAgInJlY2lwZVtzY3JpcHRzOjpmcmlnZ193ZWJdIiwKICAgICAgICAgICJyZWNpcGVbbGltaXRzXSIsCiAgICAgICAgICAicmVjaXBlW3RkLWFnZW50Ml0iLAogICAgICAgICAgInJlY2lwZVthd3Nsb2dzXSIsCiAgICAgICAgICAicmVjaXBlW0luc3BlY3Rvcl0iLAogICAgICAgICAgInJlY2lwZVtudHBdIiwKICAgICAgICAgICJyZWNpcGVbZGV2dXNlcnNdIgogICAgICAgICBdCj09PT09PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -251,14 +246,14 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ZyaWdnL21hcmJsZS9n</text>
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>frigg</last-search>
-      <last-pattern>frigg</last-pattern>
-      <last-replace>marble</last-replace>
-      <last-substitute>frigg</last-substitute>
+      <last-search>&quot;</last-search>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -266,6 +261,7 @@
       <history-search>
         <entry>chimaira</entry>
         <entry>frigg</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>set noerrorbells</entry>
@@ -273,8 +269,9 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2NoaW1haXJhL2ZyaWdnL2c=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2ZyaWdnL21hcmJsZS9n</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
