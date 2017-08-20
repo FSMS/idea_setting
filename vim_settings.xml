@@ -132,6 +132,13 @@
         <mark key="." line="27" column="48" />
         <mark key="^" line="27" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" timestamp="1503221063803">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/cidr.txt" timestamp="1483086833509">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="13" />
@@ -266,6 +273,8 @@
       <jump line="147" column="2" filename="$USER_HOME$/workspace/aws/chef/site-cookbooks/marble/recipes/apli_release_check_apj.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/aws/chef/roles/prod.rb" />
       <jump line="44" column="62" filename="$USER_HOME$/IdeaProjects/skeleton/build.gradle" />
+      <jump line="1" column="4" filename="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
