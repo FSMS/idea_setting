@@ -132,12 +132,12 @@
         <mark key="." line="27" column="48" />
         <mark key="^" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" timestamp="1503221063803">
+      <file name="$USER_HOME$/workspace/puppet/modules/apc/manifests/init.pp" timestamp="1519575589608">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="4" />
+        <mark key="[" line="68" column="9" />
+        <mark key="]" line="68" column="9" />
         <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+        <mark key="." line="68" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/withinip/cidr.txt" timestamp="1483086833509">
         <mark key="[" line="1" column="14" />
@@ -278,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -377,6 +377,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
